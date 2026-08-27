@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Zafar Bevino</h1>
+<h1 align="center">Hi 👋, I'm Fino Zafar</h1>
 <h3 align="center">A good, handsome, and cool boy</h3>
+
+- 📫 How to reach me **zafarfino@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fino zafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fino zafar" height="30" width="40" /></a>
-<a href="https://fb.com/zafar fino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zafar fino" height="30" width="40" /></a>
-<a href="https://instagram.com/dinosaur.3077090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinosaur.3077090" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/p x m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p x m" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/dinosaur.3077090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dinosaur.3077090/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@finozafar3867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@finozafar3867" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
